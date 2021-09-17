@@ -1,0 +1,400 @@
+{
+  "page": 1,
+  "results": [
+      {
+          "backdrop_path": "/AdJgkXb8oLI8e4rsk8XzkvABIuw.jpg",
+          "first_air_date": "2014-10-13",
+          "genre_ids": [
+              10759,
+              16
+          ],
+          "id": 60554,
+          "name": "Star Wars Rebels",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "Star Wars Rebels",
+          "overview": "Set between the events of Star Wars: Episodes III and IV, the story unfolds during a dark time when the evil Galactic Empire is tightening its grip of power on the galaxy. Imperial forces have occupied a remote planet and are ruining the lives of its people. The motley but clever crew of the starship Ghost — cowboy Jedi Kanan, ace pilot Hera, street-smart teenager Ezra, the “muscle” Zeb, warrior firebrand Sabine, and cantankerous old astromech droid Chopper — is among a select few who are brave enough to stand against the Empire. Together, they will face threatening new villains, encounter colorful adversaries, embark on thrilling adventures, and become heroes with the power to ignite a rebellion.",
+          "popularity": 45.07,
+          "poster_path": "/vOUxo5sfXyQPIoF8rtYK1OVVBPi.jpg",
+          "vote_average": 7.6,
+          "vote_count": 443
+      },
+      {
+          "backdrop_path": "/m6eRgkR1KC6Mr6gKx6gKCzSn6vD.jpg",
+          "first_air_date": "2008-10-03",
+          "genre_ids": [
+              10759,
+              16,
+              10765
+          ],
+          "id": 4194,
+          "name": "Star Wars: The Clone Wars",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "Star Wars: The Clone Wars",
+          "overview": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.",
+          "popularity": 77.961,
+          "poster_path": "/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
+          "vote_average": 8.5,
+          "vote_count": 1203
+      },
+      {
+          "backdrop_path": "/Ad2y46YKP2u81bsR4axajbbJKwS.jpg",
+          "first_air_date": "2018-10-07",
+          "genre_ids": [
+              10765,
+              16,
+              10759
+          ],
+          "id": 79093,
+          "name": "Star Wars Resistance",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "Star Wars Resistance",
+          "overview": "Kazuda Xiono, a young pilot for the Resistance, is tasked with a top secret mission to investigate the First Order, a growing threat in the galaxy.",
+          "popularity": 20.591,
+          "poster_path": "/xul6SG8rar3wkHPY8YusUtxcdlZ.jpg",
+          "vote_average": 7,
+          "vote_count": 49
+      },
+      {
+          "backdrop_path": "/1RkeRBh4GC6D8TYZB9a649oVH5r.jpg",
+          "first_air_date": "2003-11-07",
+          "genre_ids": [
+              10759,
+              16,
+              10765
+          ],
+          "id": 3122,
+          "name": "Star Wars: Clone Wars",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "Star Wars: Clone Wars",
+          "overview": "Star Wars: Clone Wars is an Emmy Award- and Annie Award-winning American animated micro-series set in the Star Wars universe.\n\nChronologically, the series takes place during the three-year time period between the prequel films Attack of the Clones and Revenge of the Sith. The show depicted the actions of various characters in the Star Wars prequel trilogy, including Anakin Skywalker, Obi-Wan Kenobi, Mace Windu, and other Knights of the Jedi Order during the conflict, leading the clone trooper forces of the Galactic Republic against the battle droid armies of the Confederacy of Independent Systems and the Sith.",
+          "popularity": 13.484,
+          "poster_path": "/2lsuke69bRdyB1sxtKmavtwkc35.jpg",
+          "vote_average": 7.6,
+          "vote_count": 183
+      },
+      {
+          "backdrop_path": "/dKH2l6WrrYS3tGp4JD3Y0AtVzPu.jpg",
+          "first_air_date": "2020-05-04",
+          "genre_ids": [
+              99
+          ],
+          "id": 101978,
+          "name": "Disney Gallery / Star Wars: The Mandalorian",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "Disney Gallery / Star Wars: The Mandalorian",
+          "overview": "Executive producer Jon Favreau invites the cast and crew of The Mandalorian to share an unprecedented look at the making of the series. Each chapter explores a different facet of the first live-action Star Wars television show through interviews, never-before-seen footage, and roundtable conversations hosted by Favreau himself.",
+          "popularity": 20.749,
+          "poster_path": "/6Hc2eHp59iTyMqkhcumNovq2l6y.jpg",
+          "vote_average": 7.8,
+          "vote_count": 28
+      },
+      {
+          "backdrop_path": "/qWIhNn6ZxbjYya6m5amiKXUhlQY.jpg",
+          "first_air_date": "1985-09-07",
+          "genre_ids": [
+              10762,
+              16,
+              10759,
+              10765
+          ],
+          "id": 25,
+          "name": "Star Wars: Droids",
+          "origin_country": [
+              "US",
+              "CA"
+          ],
+          "original_language": "en",
+          "original_name": "Star Wars: Droids",
+          "overview": "Star Wars: Droids, also known as Droids: The Adventures of R2-D2 and C-3PO, and 2004 re-released on DVD as Star Wars Animated Adventures: Droids, is an animated television series that features the exploits of R2-D2 and C-3PO, the droids who have appeared in all six Star Wars films. The series takes place between the events depicted in Star Wars Episode III: Revenge of the Sith and Star Wars Episode IV: A New Hope.\n\nOver the course of the series, the droids team up with four different sets of masters. The series is divided up into three cycles: at the beginning of each, the droids usually run into their new masters in an accidental way, and at the end of each cycle, they usually are forced to leave their masters for one reason or another. The Great Heep, a television special following the series, served as a prequel to the third Mungo Baobab cycle.\n\nThe series' opening theme, \"Trouble Again,\" was performed by Stewart Copeland of the Police and written by Copeland and Derek Holt.",
+          "popularity": 7.629,
+          "poster_path": "/b3gsZSTauRBJDJvWCbD9oVAsFe1.jpg",
+          "vote_average": 4.8,
+          "vote_count": 46
+      },
+      {
+          "backdrop_path": "/afHWBChQ16H1xutbtq2lrKFC4TF.jpg",
+          "first_air_date": "1985-09-07",
+          "genre_ids": [
+              10762,
+              16,
+              10765,
+              10759
+          ],
+          "id": 3478,
+          "name": "Star Wars: Ewoks",
+          "origin_country": [
+              "CA",
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "Star Wars: Ewoks",
+          "overview": "The Ewok Wicket and his friends from the Bright Tree Village go on many magical adventures.",
+          "popularity": 6.982,
+          "poster_path": "/4lPmGZ1agcSAxMEDqk8B32kUU4R.jpg",
+          "vote_average": 6.2,
+          "vote_count": 17
+      },
+      {
+          "backdrop_path": "/iHfyFYYFtceiJ5Zq7S6qMpmRggm.jpg",
+          "first_air_date": "2017-07-03",
+          "genre_ids": [
+              10765,
+              16,
+              10759,
+              10751
+          ],
+          "id": 71412,
+          "name": "Star Wars: Forces of Destiny",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "Star Wars: Forces of Destiny",
+          "overview": "An animated micro-series starring Rey, Jyn Erso, Princess Leia, Ahsoka Tano, and more. Small moments and everyday decisions shape a larger heroic saga.",
+          "popularity": 6.893,
+          "poster_path": "/a5d2y264VgYUvpKUNNT6EbL1Cwb.jpg",
+          "vote_average": 5.6,
+          "vote_count": 20
+      },
+      {
+          "backdrop_path": "/eHKUfBOINrEHBxk8W6aePTDb5dN.jpg",
+          "first_air_date": "2016-06-20",
+          "genre_ids": [
+              16
+          ],
+          "id": 66837,
+          "name": "LEGO Star Wars: The Freemaker Adventures",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "LEGO Star Wars: The Freemaker Adventures",
+          "overview": "Set between The Empire Strikes Back and Return of the Jedi, The Freemaker Adventures centers on a family of three young siblings—young boy Rowan, his sister Kordi, and their brother Zander—known as the Freemakers, who salvage parts from destroyed or damaged ships which they use to build new ones, which they sell in order to make their living. They are accompanied by their salvaged battle droid Roger.",
+          "popularity": 6.825,
+          "poster_path": "/1uI5ZG2eGEV25n3klN4M1SrJCl0.jpg",
+          "vote_average": 7.9,
+          "vote_count": 16
+      },
+      {
+          "backdrop_path": "/eb930XgnUTYIqKhkYFN2kDXNYJe.jpg",
+          "first_air_date": "2021-09-22",
+          "genre_ids": [
+              16,
+              10765
+          ],
+          "id": 114478,
+          "name": "Star Wars: Visions",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "Star Wars: Visions",
+          "overview": "An anthology series of animated short films celebrating Star Wars through the lens of the world’s best anime creators.",
+          "popularity": 3.132,
+          "poster_path": "/rzDzHCOmN5VKpQrInMkjjqo2dPm.jpg",
+          "vote_average": 0,
+          "vote_count": 0
+      },
+      {
+          "backdrop_path": "/iv4vmJW6P6ZtovQdqbX13ijTshw.jpg",
+          "first_air_date": "2015-10-05",
+          "genre_ids": [
+              16
+          ],
+          "id": 63722,
+          "name": "LEGO Star Wars: Droid Tales",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "LEGO Star Wars: Droid Tales",
+          "overview": "Following their victory celebration in the Ewok village on Endor, seen at the close of Star Wars: Return of the Jedi, C-3PO and R2-D2 have gathered to regale Luke, Leia, Han, Chewbacca and the other Rebels with the tales of their adventures that led to the events of Star Wars: The Phantom Menace. An accidental kidnapping occurs while the droids are reminiscing and suddenly viewers are taken on a new adventure that leads to encounters with familiar faces and places that prompt the re-telling of the entire saga. The series offers all of the playful humor that viewers expect from LEGO Star Wars.",
+          "popularity": 3.896,
+          "poster_path": "/kwEtB6toMVkmoqEoG5Hl63KP9NL.jpg",
+          "vote_average": 6.9,
+          "vote_count": 15
+      },
+      {
+          "backdrop_path": "/eHRP0es94XqlTU3nY62YzlS8n5u.jpg",
+          "first_air_date": "2018-11-30",
+          "genre_ids": [
+              10762,
+              10765
+          ],
+          "id": 85536,
+          "name": "Star Wars Galaxy of Adventures",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "Star Wars Galaxy of Adventures",
+          "overview": "A series of animated shorts celebrating the characters and stories of a galaxy far, far away, featuring a bright and colorful art style, exciting action, and insight into the saga's greatest themes!",
+          "popularity": 3.488,
+          "poster_path": "/z2q1RjIX1S2GDc75f4ohT3GQBoK.jpg",
+          "vote_average": 6.4,
+          "vote_count": 7
+      },
+      {
+          "backdrop_path": "/1Yr0Wx6h94OEaQiBbwhlyr2REyX.jpg",
+          "first_air_date": "2021-05-03",
+          "genre_ids": [
+              10765
+          ],
+          "id": 124734,
+          "name": "Star Wars Vehicle Flythroughs",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "Star Wars Vehicle Flythroughs",
+          "overview": "Get up-close-and-personal with some of the Star Wars films’ most iconic and beloved ships and vehicles as this charming series whisks you off for fly-through tours of the Galaxy Far, Far Away.",
+          "popularity": 1.952,
+          "poster_path": "/qcVesiLTqbUYpGKl8KXZgeNhtz4.jpg",
+          "vote_average": 8,
+          "vote_count": 5
+      },
+      {
+          "backdrop_path": "/ouXe5ZsjT0iPJjbGYj1k7V1356o.jpg",
+          "first_air_date": "2013-05-29",
+          "genre_ids": [
+              10765,
+              10759
+          ],
+          "id": 61513,
+          "name": "Lego Star Wars: The Yoda Chronicles",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "Lego Star Wars: The Yoda Chronicles",
+          "overview": "Yoda begins by training Padawans at the Jedi Temple Academy, but then he feels a disturbance in the Force and rushes off to fight the Dark Side.",
+          "popularity": 2.729,
+          "poster_path": "/1S1j1QxwLNPNiUrq8GSg05KkAmY.jpg",
+          "vote_average": 7,
+          "vote_count": 10
+      },
+      {
+          "backdrop_path": "/nv2PiJUst7OGoiTitSt3ttlFN2r.jpg",
+          "first_air_date": "2016-08-30",
+          "genre_ids": [
+              16,
+              10765,
+              35,
+              10762
+          ],
+          "id": 123301,
+          "name": "Star Wars: Go Rogue",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "Star Wars: Go Rogue",
+          "overview": "A stop motion animated Star Wars series, created by fans and Lucasfilm, to introduce the new Rogue One action figures from Tongal. The shorts follow the Rogue One character’s adventures throughout the galaxy as they battle the Empire.",
+          "popularity": 1.96,
+          "poster_path": "/2k26Jwxk1zZkvX0KcdpjRbUzM4s.jpg",
+          "vote_average": 0,
+          "vote_count": 0
+      },
+      {
+          "backdrop_path": "/ivF9Khaenu3XwQLIdIBxsfpsIh4.jpg",
+          "first_air_date": "2018-11-10",
+          "genre_ids": [
+              16
+          ],
+          "id": 83558,
+          "name": "LEGO Star Wars: All-Stars",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "LEGO Star Wars: All-Stars",
+          "overview": "An adventure series that spans all Star Wars eras featuring LEGO versions of the fresh faces of the Star Wars galaxy alongside iconic heroes including Kylo Ren, R2-D2, Young Han, Chewie, Young Lando, BB-8 and General Leia.",
+          "popularity": 1.64,
+          "poster_path": "/97dmYYI7TACdGvXWQd2sIyMq16n.jpg",
+          "vote_average": 8.5,
+          "vote_count": 4
+      },
+      {
+          "backdrop_path": null,
+          "first_air_date": "2014-10-03",
+          "genre_ids": [],
+          "id": 73518,
+          "name": "Star Wars Rebels Recon",
+          "origin_country": [],
+          "original_language": "en",
+          "original_name": "Star Wars Rebels Recon",
+          "overview": "Webseries giving an inside look into the Star Wars Rebels TV Show",
+          "popularity": 1.641,
+          "poster_path": "/rwYL1fGB004owaTmprYmx8STKqq.jpg",
+          "vote_average": 8.8,
+          "vote_count": 5
+      },
+      {
+          "backdrop_path": "/3bBC4u27W4TfOkCVKds7nofJCfe.jpg",
+          "first_air_date": "2020-06-10",
+          "genre_ids": [],
+          "id": 96101,
+          "name": "Star Wars: Jedi Temple Challenge",
+          "origin_country": [],
+          "original_language": "en",
+          "original_name": "Star Wars: Jedi Temple Challenge",
+          "overview": "A game show set in a galaxy far, far away, which tests young contestants’ abilities in the core Jedi principles of strength, knowledge, and bravery as they face thrilling and fun obstacles in an attempt to achieve the rank of Jedi Knight",
+          "popularity": 2.116,
+          "poster_path": "/31sUqbfMinBr9qyx6XlwhJFG4G5.jpg",
+          "vote_average": 7,
+          "vote_count": 2
+      },
+      {
+          "backdrop_path": "/kT51nQO7d17Nsb9j5oPIY7SyT8n.jpg",
+          "first_air_date": "2017-05-03",
+          "genre_ids": [],
+          "id": 105106,
+          "name": "Star Wars Blips",
+          "origin_country": [],
+          "original_language": "en",
+          "original_name": "Star Wars Blips",
+          "overview": "What does a curious little droid do when he's not hurtling through space on a daring mission to save the galaxy? Star Wars Blips stars BB-8 in his very own series of animated shorts, featuring heroes of the Star Wars universe like Chewbacca, C-3PO and of course, R2-D2.",
+          "popularity": 0.84,
+          "poster_path": "/p968BsTmdTbYGIuSJkPaeA8fved.jpg",
+          "vote_average": 5.7,
+          "vote_count": 3
+      },
+      {
+          "backdrop_path": "/op6aQ6p9QGmFUxErOGSVHzyUC2R.jpg",
+          "first_air_date": "2016-02-15",
+          "genre_ids": [
+              16,
+              10765
+          ],
+          "id": 66487,
+          "name": "LEGO Star Wars: The Resistance Rises",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "LEGO Star Wars: The Resistance Rises",
+          "overview": "A series of animated shorts that take place prior to the First Order's attack on Jakku and tell never-before-told stories including Kylo Ren, Han Solo, Finn, Rey, BB-8, Maz Kanata and more.",
+          "popularity": 1.489,
+          "poster_path": "/xvYc0QGTC1rMuONe6PWBnWnpfuv.jpg",
+          "vote_average": 6.6,
+          "vote_count": 4
+      }
+  ],
+  "total_pages": 2,
+  "total_results": 36
+}
